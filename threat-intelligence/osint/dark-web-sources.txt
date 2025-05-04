@@ -1,0 +1,28 @@
+## Dark Web Sources for Threat Intelligence
+
+# Dark Web Marketplaces & Forums
+- hxxp://darkmarketxyz.onion - Illicit Market - Monitored since 2024-02-14
+- hxxp://hackersforumabc.onion - Cybercrime Forum - Active since 2024-02-13
+- hxxp://ransomwareleaksxyz.onion - Ransomware Data Leak Site - Updated 2024-02-12
+- hxxp://darkbankinghub.onion - Financial Fraud Forum - 2024-02-11
+
+# Dark Web Search Engines
+- hxxp://ahmia.fi - Indexes hidden Tor services
+- hxxp://onionlandsearchengine.com - Dark Web Search
+- hxxp://notevil.onion - Privacy-focused search engine
+
+# Threat Intelligence Monitoring & Dark Web Feeds
+- [DarkOwl](https://www.darkowl.com/) - Provides insights into Tor-based activities
+- [Hudson Rock](https://www.hudsonrock.com/) - Cybercrime threat intelligence platform
+- [Intel 471](https://www.intel471.com/) - Dark web monitoring solutions
+- [CipherTrace](https://ciphertrace.com/) - Cryptocurrency tracking for illicit transactions
+
+# Notes:
+- **Use caution** when accessing dark web sources, employ Tor and proper OPSEC.
+- **Dark web content changes frequently**, so links may go offline.
+- **Law enforcement monitoring**: Some dark web sites are under active investigation.
+
+# External Dark Web Intel Feeds:
+- [Dark Web Report (TorBot)](https://torbot.io/)
+- [DeepDotWeb Archive](https://deepdot35wvmeyd5.onion/)
+- [Have I Been Pwned - Dark Web Dumps](https://haveibeenpwned.com/)

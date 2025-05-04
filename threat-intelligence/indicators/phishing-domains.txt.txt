@@ -1,0 +1,29 @@
+## List of Known Phishing Domains
+
+# Recently Active Phishing Domains
+phishing-login.com - Credential Harvesting - 2024-02-14
+secure-banking-update.net - Fake Banking Site - 2024-02-13
+microsoft-security-alert.xyz - Tech Support Scam - 2024-02-12
+paypal-verification.com - Fake PayPal Login - 2024-02-11
+appleid-recovery.net - Apple ID Phishing - 2024-02-10
+
+# High-Risk Domains (Persistent Threats)
+login-facebook-security.com - Facebook Credential Theft - 2024-02-09
+update-your-banking.info - Online Banking Phishing - 2024-02-08
+support-google-helpdesk.com - Google Account Scam - 2024-02-07
+secure-payment-gateway.org - Fake Payment Processor - 2024-02-06
+amazon-order-verify.net - Amazon Phishing - 2024-02-05
+
+# Suspicious Newly Registered Domains
+account-confirmation-service.com - Possible Credential Theft - 2024-02-04
+verification-center-online.net - Phishing Site - 2024-02-03
+crypto-wallet-security.io - Fake Crypto Wallet Login - 2024-02-02
+support-hotline-tech.com - Fake Tech Support - 2024-02-01
+
+# Useful External Phishing Domain Feeds:
+- [OpenPhish](https://www.openphish.com/)
+- [PhishTank](https://www.phishtank.com/)
+- [Abuse.ch URLhaus](https://urlhaus.abuse.ch/)
+- [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/search)
+- [CheckPhish](https://checkphish.ai/)
+

@@ -1,0 +1,29 @@
+## List of Known Suspicious IPs
+
+# Recently Observed Malicious IPs
+185.220.101.7 - APT28 C2 Server - 2024-02-14
+45.227.253.32 - Malware Distribution - 2024-02-13
+103.44.56.89 - Phishing Landing Page - 2024-02-12
+92.63.194.33 - Botnet Activity - 2024-02-11
+37.120.215.42 - Credential Stuffing Attacks - 2024-02-10
+
+# Persistent Threat IPs (Repeatedly Used by Threat Actors)
+23.95.97.58 - Brute Force Attacks - 2024-02-09
+141.98.252.100 - Ransomware Command & Control - 2024-02-08
+79.124.62.100 - Cryptojacking Operations - 2024-02-07
+185.100.87.72 - Exploit Kit Hosting - 2024-02-06
+192.42.116.16 - Dark Web Marketplace - 2024-02-05
+
+# Suspicious IPs from Open Sources
+209.141.32.12 - Proxy/VPN Abuse - 2024-02-04
+185.38.175.132 - TOR Exit Node - 2024-02-03
+5.34.180.206 - Bulletproof Hosting - 2024-02-02
+178.175.148.120 - Potential C2 Infrastructure - 2024-02-01
+
+# Useful External Suspicious IP Feeds:
+- [AbuseIPDB](https://www.abuseipdb.com/)
+- [AlienVault OTX](https://otx.alienvault.com/)
+- [Spamhaus DROP List](https://www.spamhaus.org/drop/)
+- [FireHOL IP Lists](https://iplists.firehol.org/)
+- [Bad IPs List - Emerging Threats](https://rules.emergingthreats.net/blockrules/compromised-ips.txt)
+
